@@ -1,2 +1,2 @@
-# k8s-learning
-Learning resources and exercises for learning Kubernetes
+# K8s-learning
+resources and exercises for learning Kubernetes
